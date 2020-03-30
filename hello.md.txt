@@ -6,8 +6,3 @@
 - add: I could change
 - commit: Don't know why
 - push: I'm happy to hear that
-
-#브랜치 변경하기
-- 브랜치란:
-- 체크아웃:
-- 소스트리의 체크아웃: 
