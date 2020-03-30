@@ -6,3 +6,9 @@
 - add: I could change
 - commit: Don't know why
 - push: I'm happy to hear that
+- clone: ���� ����� ����
+- add: �������� ������ �۾� ���� �߰�
+- commit: ���̺�, �������� ������ ������ ������ Ŀ��(=���̺�)�� ���� �� �ֵ�. 
+- push: ���� ����ҿ� Ŀ���� ���ε� �Ѵ�. 
+
+version2�� Ŀ���߰�
