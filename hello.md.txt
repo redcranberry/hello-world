@@ -1,8 +1,8 @@
-# hello git
+癤�# hello git
 
-## git 명령어 요약
+## git hello
 
-- clone: 원격 저장소 복사
-- add: 스테이지 영역에 작업 파일 추가
-- commit: 세이브, 스테이지 영역의 파일을 가지고 커밋(=세이브)를 만들 수 있따. 
-- push: 원격 저장소에 커밋을 업로드 한다. 
+- clone: I am ground
+- add: I could change
+- commit: Don't know why
+- push: I'm happy to hear that
